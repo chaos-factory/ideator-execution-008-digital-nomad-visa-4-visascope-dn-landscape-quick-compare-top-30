@@ -1,0 +1,1 @@
+Source-first, sortable comparison of the top 30 digital nomad visa programs: duration, renewability, minimum income, dependents, insurance, and application channel. Row details with source links and as-of notes, plus CSV/PDF export and monthly verification.
