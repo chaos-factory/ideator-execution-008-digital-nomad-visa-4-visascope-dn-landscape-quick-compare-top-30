@@ -1,0 +1,264 @@
+[
+  {
+    "program_id": "pt-d7-2024",
+    "country": "Portugal",
+    "name": "D7 Passive Income Visa",
+    "duration_months": 24,
+    "renewable": true,
+    "min_income": {
+      "amount": 9120,
+      "currency": "EUR",
+      "basis": "annual"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "In person",
+    "official_url": "https://www.vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa/stay/passive-income",
+    "as_of": "2024-11-15",
+    "notes": "Renewable annually. Can apply for permanent residence after 5 years. Income must be passive (e.g., pension, rental income, dividends)."
+  },
+  {
+    "program_id": "es-dnv-2023",
+    "country": "Spain",
+    "name": "Digital Nomad Visa",
+    "duration_months": 12,
+    "renewable": true,
+    "min_income": {
+      "amount": 2646,
+      "currency": "EUR",
+      "basis": "monthly"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "Online",
+    "official_url": "https://www.inclusion.gob.es/en/web/migraciones/visado-nomadas-digitales",
+    "as_of": "2024-10-22",
+    "notes": "Renewable for up to 5 years. Must work remotely for non-Spanish companies or be self-employed with international clients."
+  },
+  {
+    "program_id": "ee-dnv-2020",
+    "country": "Estonia",
+    "name": "Digital Nomad Visa",
+    "duration_months": 12,
+    "renewable": false,
+    "min_income": {
+      "amount": 4500,
+      "currency": "EUR",
+      "basis": "monthly"
+    },
+    "dependents": false,
+    "insurance_req": true,
+    "application_channel": "Online",
+    "official_url": "https://www.politsei.ee/en/instructions/digital-nomad-visa",
+    "as_of": "2024-09-30",
+    "notes": "Not renewable. Max stay one time only. Must be employed or freelance outside Estonia."
+  },
+  {
+    "program_id": "hr-dnv-2021",
+    "country": "Croatia",
+    "name": "Digital Nomad Residence Permit",
+    "duration_months": 12,
+    "renewable": false,
+    "min_income": {
+      "amount": 2870,
+      "currency": "EUR",
+      "basis": "monthly"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "In person",
+    "official_url": "https://mup.gov.hr/aliens-281621/stay-and-work/digital-nomads/286194",
+    "as_of": "2024-11-01",
+    "notes": "One-time permit, not renewable. Must work remotely for employer or clients outside Croatia."
+  },
+  {
+    "program_id": "gr-dnv-2021",
+    "country": "Greece",
+    "name": "Digital Nomad Visa",
+    "duration_months": 12,
+    "renewable": true,
+    "min_income": {
+      "amount": 3500,
+      "currency": "EUR",
+      "basis": "monthly"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "In person",
+    "official_url": "https://migration.gov.gr/en/digital-nomads/",
+    "as_of": "2024-08-15",
+    "notes": "Renewable for up to 2 years. Tax benefits available for new residents."
+  },
+  {
+    "program_id": "it-dnv-2024",
+    "country": "Italy",
+    "name": "Digital Nomad Visa",
+    "duration_months": 12,
+    "renewable": true,
+    "min_income": {
+      "amount": 28000,
+      "currency": "EUR",
+      "basis": "annual"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "In person",
+    "official_url": "https://vistoperitalia.esteri.it/home/en",
+    "as_of": "2024-12-01",
+    "notes": "Launched April 2024. Renewable for additional year. Must work remotely for companies outside Italy."
+  },
+  {
+    "program_id": "mt-nnr-2021",
+    "country": "Malta",
+    "name": "Nomad Residence Permit",
+    "duration_months": 12,
+    "renewable": true,
+    "min_income": {
+      "amount": 3500,
+      "currency": "EUR",
+      "basis": "monthly"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "Online",
+    "official_url": "https://nomad.residencymalta.gov.mt/",
+    "as_of": "2024-10-10",
+    "notes": "Renewable annually. Fast processing (typically 1-2 weeks). Flat tax rate of 15% available."
+  },
+  {
+    "program_id": "cz-zlp-2022",
+    "country": "Czech Republic",
+    "name": "Freelance Visa (Zivnostensky List)",
+    "duration_months": 12,
+    "renewable": true,
+    "min_income": null,
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "In person",
+    "official_url": "https://www.mvcr.cz/mvcren/article/long-term-residence.aspx",
+    "as_of": "2024-09-20",
+    "notes": "Requires proof of sufficient funds (approximately €5,800) or local business registration. Renewable with trade license."
+  },
+  {
+    "program_id": "is-ltv-2022",
+    "country": "Iceland",
+    "name": "Long-term Visa for Remote Workers",
+    "duration_months": 6,
+    "renewable": true,
+    "min_income": {
+      "amount": 1000000,
+      "currency": "ISK",
+      "basis": "monthly"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "Online",
+    "official_url": "https://www.utl.is/en/residence-permit/long-term-visa-remote-work",
+    "as_of": "2024-07-30",
+    "notes": "Renewable for up to 6 additional months (12 months total). Must work for company outside Iceland."
+  },
+  {
+    "program_id": "no-sv-2023",
+    "country": "Norway",
+    "name": "Independent Contractor Residence",
+    "duration_months": 24,
+    "renewable": true,
+    "min_income": {
+      "amount": 322106,
+      "currency": "NOK",
+      "basis": "annual"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "Online",
+    "official_url": "https://www.udi.no/en/want-to-apply/work-immigration/self-employment/",
+    "as_of": "2024-11-20",
+    "notes": "Renewable every 2 years. Requires documented savings or client contracts. High income threshold."
+  },
+  {
+    "program_id": "ro-dnv-2024",
+    "country": "Romania",
+    "name": "Digital Nomad Visa",
+    "duration_months": 12,
+    "renewable": false,
+    "min_income": {
+      "amount": 3700,
+      "currency": "EUR",
+      "basis": "monthly"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "In person",
+    "official_url": "https://igi.mai.gov.ro/en/digital-nomad-visa/",
+    "as_of": "2024-11-05",
+    "notes": "Launched 2024, pilot program with cap on applicants. One-time only, not renewable."
+  },
+  {
+    "program_id": "hu-wa-2022",
+    "country": "Hungary",
+    "name": "White Card",
+    "duration_months": 12,
+    "renewable": true,
+    "min_income": {
+      "amount": 3000,
+      "currency": "EUR",
+      "basis": "monthly"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "Online",
+    "official_url": "https://whitecard.gov.hu/en",
+    "as_of": "2024-10-15",
+    "notes": "Launched 2022 for remote workers, freelancers, and entrepreneurs. Renewable for 3 years total."
+  },
+  {
+    "program_id": "ae-vrw-2021",
+    "country": "United Arab Emirates",
+    "name": "Virtual Working Programme",
+    "duration_months": 12,
+    "renewable": true,
+    "min_income": {
+      "amount": 5000,
+      "currency": "USD",
+      "basis": "monthly"
+    },
+    "dependents": false,
+    "insurance_req": true,
+    "application_channel": "Online",
+    "official_url": "https://www.dubailand.gov.ae/en/remote-work-visa",
+    "as_of": "2024-09-10",
+    "notes": "Tax-free income. Must have employer or own business outside UAE. Renewable annually."
+  },
+  {
+    "program_id": "th-ltv-2022",
+    "country": "Thailand",
+    "name": "Long-Term Resident (LTR) Visa - Work from Thailand",
+    "duration_months": 120,
+    "renewable": true,
+    "min_income": {
+      "amount": 80000,
+      "currency": "USD",
+      "basis": "annual"
+    },
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "Online",
+    "official_url": "https://ltr.boi.go.th/",
+    "as_of": "2024-08-25",
+    "notes": "10-year visa. Requires employment by well-established overseas company or income from government bonds."
+  },
+  {
+    "program_id": "id-b211a-2023",
+    "country": "Indonesia",
+    "name": "Second Home Visa (B211A)",
+    "duration_months": 60,
+    "renewable": true,
+    "min_income": null,
+    "dependents": true,
+    "insurance_req": true,
+    "application_channel": "Hybrid",
+    "official_url": "https://www.imigrasi.go.id/en/second-home-visa/",
+    "as_of": "2024-07-12",
+    "notes": "5-year visa for Bali and Indonesia. Proof of funds required (approx. $130k in Indonesian bank account or property ownership)."
+  }
+]
